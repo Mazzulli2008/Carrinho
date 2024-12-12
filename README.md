@@ -8,4 +8,4 @@ Carrinho feito como base de treinamento, o objtivo do projeto é fazer com que a
 + HTML e CSS
 + JS
 + Figma
-+ Phosphoricons
++ Phosphor Icons
